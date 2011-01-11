@@ -80,3 +80,12 @@ set foldcolumn=1
 
 " supertab
 let g:SuperTabDefaultCompletionType = "context"
+
+
+let mapleader = ","
+nmap <leader>v :tabedit $MYVIMRC<CR>
+
+if has("autocmd")
+    autocmd BufWritePost vimrc source $MYVIMRC
+endif
+
