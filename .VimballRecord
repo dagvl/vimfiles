@@ -1,0 +1,1 @@
+supertab.vba: call delete('/home/dagvl/.vim/plugin/supertab.vim')|call delete('/home/dagvl/.vim/doc/supertab.txt')
