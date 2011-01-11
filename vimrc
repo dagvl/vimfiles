@@ -1,6 +1,12 @@
 " Example Vim configuration.
 " Copy or symlink to ~/.vimrc or ~/_vimrc.
 
+" Needed on some linux distros.
+" see http://www.adamlowe.me/2009/12/vim-destroys-all-other-rails-editors.html
+filetype off 
+call pathogen#helptags()
+call pathogen#runtime_append_all_bundles()
+
 set nocompatible                  " Must come first because it changes other options.
 
 syntax enable                     " Turn on syntax highlighting.
@@ -88,4 +94,14 @@ nmap <leader>v :tabedit $MYVIMRC<CR>
 if has("autocmd")
     autocmd BufWritePost vimrc source $MYVIMRC
 endif
+
+
+
+" bubble text up and down
+nmap <C-Up> [e
+nmap <C-Down> ]e
+
+" bubble multiple lines in Visal line mode
+vmap <C-Up> [egv
+vmap <C-Down> ]egv
 
