@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/templates
+END
+report_two_column.tex
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/templates/report_two_column.tex
+END
+article.tex
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/templates/article.tex
+END
+report.tex
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/templates/report.tex
+END
+IEEEtran.tex
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/templates/IEEEtran.tex
+END

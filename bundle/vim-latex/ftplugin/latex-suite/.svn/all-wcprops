@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite
+END
+version.vim
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/version.vim
+END
+texproject.vim
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/texproject.vim
+END
+mathmacros-utf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/mathmacros-utf.vim
+END
+texmenuconf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/texmenuconf.vim
+END
+texrc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/texrc
+END
+envmacros.vim
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/envmacros.vim
+END
+mathmacros.vim
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/mathmacros.vim
+END
+elementmacros.vim
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/elementmacros.vim
+END
+brackets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/brackets.vim
+END
+templates.vim
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/templates.vim
+END
+wizardfuncs.vim
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/wizardfuncs.vim
+END
+projecttemplate.vim
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/projecttemplate.vim
+END
+smartspace.vim
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/smartspace.vim
+END
+multicompile.vim
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/multicompile.vim
+END
+pytools.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/pytools.py
+END
+compiler.vim
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/compiler.vim
+END
+bibtools.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/bibtools.py
+END
+outline.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/outline.py
+END
+bibtex.vim
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/bibtex.vim
+END
+diacritics.vim
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/diacritics.vim
+END
+packages.vim
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/packages.vim
+END
+custommacros.vim
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/custommacros.vim
+END
+folding.vim
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/folding.vim
+END
+texviewer.vim
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/texviewer.vim
+END
+main.vim
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/vim-latex/!svn/ver/1115/trunk/vimfiles/ftplugin/latex-suite/main.vim
+END
