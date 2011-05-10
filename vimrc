@@ -12,8 +12,6 @@ set nocompatible                  " Must come first because it changes other opt
 syntax enable                     " Turn on syntax highlighting.
 filetype plugin indent on         " Turn on file type detection.
 
-runtime macros/matchit.vim        " Load the matchit plugin.
-
 set showcmd                       " Display incomplete commands.
 set showmode                      " Display the mode you're in.
 
@@ -86,16 +84,13 @@ set foldcolumn=1
 " autocmd FileType ruby setlocal foldmethod=syntax
 " autocmd FileType css  setlocal foldmethod=indent shiftwidth=2 tabstop=2
 
-" supertab
-let g:SuperTabDefaultCompletionType = "context"
-
 
 let mapleader = ","
 nmap <leader>v :tabedit $MYVIMRC<CR>
 
-if has("autocmd")
-    autocmd BufWritePost vimrc source $MYVIMRC
-endif
+"if has("autocmd")
+"    autocmd BufWritePost vimrc source $MYVIMRC
+"endif
 
 
 
