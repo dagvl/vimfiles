@@ -207,7 +207,15 @@ set hlsearch                " Highlight searches by default.
 set incsearch               " Incrementally search while typing a /regex
 
 """" Display
-colorscheme vividchalk
+set t_Co=256
+colorscheme zenburn
+
+""" Bubble text up and down
+nmap <C-Up> [e
+nmap <C-Down> ]e
+vmap <C-Up> [egv
+vmap <C-Down> ]egv
+
 
 " ==========================================================
 " Python
